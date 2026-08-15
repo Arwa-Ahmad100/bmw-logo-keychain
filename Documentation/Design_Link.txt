@@ -1,1 +1,16 @@
+BMW Logo Keychain — Editable CAD Design
 
+Autodesk Fusion Share Link:
+https://a360.co/45tMzzG
+
+Editable Source File:
+../CAD/BMW_Logo_Keychain.f3d
+
+CAD Software:
+Autodesk Fusion
+
+Notes:
+- The shared Fusion design provides access to the CAD model.
+- Download access is enabled.
+- The editable .f3d source file is included in the CAD folder.
+- The manufacturing STL file is included in the STL folder.
